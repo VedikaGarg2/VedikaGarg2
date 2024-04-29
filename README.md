@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Data Mining, Big Data and Data Science**
 
-- 👨‍💻 My project is available at [https://github.com/VedikaGarg2/] https://github.com/VedikaGarg2/
+- 👨‍💻 My project is available at [https://github.com/VedikaGarg2/]
 
 - 📫 How to reach me **vedika2.garg@gmail.com**
 
